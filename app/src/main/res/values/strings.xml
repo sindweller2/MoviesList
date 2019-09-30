@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Movies List</string>
+
+    <string-array name="data_name">
+        <item>Fast and Furious Presents: Hobbs and Shaw</item>
+        <item>The Lion King</item>
+        <item>Avengers: Endgame</item>
+        <item>Spider-Man: Far from Home</item>
+        <item>Once Upon a Time in Hollywood</item>
+        <item>Crawl</item>
+        <item>Annabelle Comes Home</item>
+        <item>Stuber</item>
+        <item>Into the Ashes</item>
+        <item>Illuminated: The True Story of the Illuminati</item>
+        <item>Aladdin</item>
+        <item>Toy Story 4</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>A spinoff of The Fate of the Furious, focusing on Johnson\'s US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with Statham\'s Deckard Shaw.</item>
+        <item>Simba idolises his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub\'s arrival. Scar, Mufasa\'s brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba\'s exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.</item>
+        <item>After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos\' actions and restore order to the universe once and for all, no matter what consequences may be in store.</item>
+        <item>Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.</item>
+        <item>A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood\'s Golden Age in 1969 Los Angeles.</item>
+        <item>While struggling to save her father during a Category 5 hurricane, a young woman finds herself trapped inside a flooding house and fighting for her life against Florida\’s most savage and feared predators.</item>
+        <item>Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorraine Warren bring the possessed doll to the locked artifacts room in their home, placing her “safely” behind sacred glass and enlisting a priest\’s holy blessing. But an unholy night of horror awaits as Annabelle awakens the evil spirits in the room, who all set their sights on a new target—the Warrens\' ten-year-old daughter, Judy, and her friends.</item>
+        <item>After crashing his car, a cop who\'s recovering from eye surgery recruits an Uber driver to help him catch a heroin dealer. The mismatched pair soon find themselves in for a wild day of stakeouts and shootouts as they encounter the city\'s seedy side.</item>
+        <item>With an honest job and a loving wife, Nick Brenner believed he had safely escaped his violent, criminal history. But his old crew hasn\'t forgotten about him or the money he stole, and when they take what Nick now values the most - his wife - he has nothing left to lose. Confronted by the town sheriff, who is also his father-in-law, Nick must decide if he will stay on his new path or indulge in his need for revenge and force his enemies to pay for what they have done.</item>
+        <item>The true historical account of the Illuminati, exposing the actual rituals of the secret society, and answering the age-old question of whether or not the order still exists.</item>
+        <item>A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.</item>
+        <item>When a new toy called "Forky" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.</item>
+    </string-array>
+    <array name="data_releasedate">
+        <item>August 2, 2019</item>
+        <item>July 19, 2019</item>
+        <item>April 26, 2019</item>
+        <item>July 2, 2019</item>
+        <item>July 26, 2019</item>
+        <item>July 12, 2019</item>
+        <item>June 26, 2019</item>
+        <item>July 12, 2019</item>
+        <item>July 19, 2019</item>
+        <item>July 30, 2019</item>
+        <item>May 24, 2019</item>
+        <item>June 21, 2019</item>
+    </array>
+    <array name="data_runtime">
+        <item>2h 16m</item>
+        <item>1h 58m</item>
+        <item>3h 1m</item>
+        <item>2h 9m</item>
+        <item>2h 41m</item>
+        <item>1h 27m</item>
+        <item>1h 46m</item>
+        <item>1h 33m</item>
+        <item>1h 38m</item>
+        <item>1h 16m</item>
+        <item>2h 8m</item>
+        <item>1h 40m</item>
+    </array>
+    <array name="data_picture">
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+        <item>@drawable/d</item>
+        <item>@drawable/e</item>
+        <item>@drawable/f</item>
+        <item>@drawable/g</item>
+        <item>@drawable/h</item>
+        <item>@drawable/i</item>
+        <item>@drawable/j</item>
+        <item>@drawable/k</item>
+        <item>@drawable/l</item>
+    </array>
+</resources>
